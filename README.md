@@ -1,3 +1,3 @@
 # Child Responsibility Board
 
-## A child oriented Todo/schedule web app.
+## A child-oriented Todo/schedule web app.
